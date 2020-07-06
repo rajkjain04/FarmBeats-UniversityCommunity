@@ -1,3 +1,15 @@
+# Developed by: 
+
+Lulwa AlKhalifa 
+Raj Jain 
+Ata Yardimci 
+Jie (Alba) Yechen 
+Jingwei Wu 
+
+# Acknowledgements 
+
+We would like to thank Dr. Christos Bouganis, Reader in Intelligent Systems in the Department of Electrical and Electronic Engineering at Imperial College London, for his invaluable support and continued engagement during the project. We would also like to thank our Industrial Supervisors from Microsoft, Mr. Lee Stott, Mr. Jim Bennett and Ms. Stacey Wood, for their valuable insights and suggestions for our project along with regular meetings. We would also like to express our sincere gratitude towards them for giving us a great opportunity to present our work on the the FarmBeats learning resource to the Microsoft FarmBeats Engineering Team based in Redmond, Washington, U.S. 
+
 # About Microsoft FarmBeats
 
 It is a venture of Microsoft Research currently in its public preview. Launched in 2015, by Dr. Ranveer Chandra, it aims to democratize Artificial Intelligence and Internet of Things technologies to farmers globally.
